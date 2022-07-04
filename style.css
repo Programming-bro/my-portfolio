@@ -20,6 +20,7 @@ h1 span{
 }
 p{
     color: dimgray;
+    text-align: justify;
 }
 .dream-area{
     background-image: url("images/dream-bg.png");
@@ -78,7 +79,7 @@ section{
     width: 40%;
     float: left;
     margin-left: 5%;
-    padding-left: 2%;    
+    padding:0 2%;    
 }
 }
 @media (max-width: 800px) { 
@@ -114,7 +115,7 @@ section{
     float: left;
     margin-left: 3%;
     margin-right: 2%;
-    padding-left: 2%;    
+    padding: 0 2%;    
 }
 .experience-area h2{
     font-size: 22px;
